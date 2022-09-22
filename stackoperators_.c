@@ -16,6 +16,8 @@ int main() {
 		printf("\n\nEnter the choice:");
 		scanf("%d",&choice);
 		
+		
+		
 		switch(choice)
 		{
 			case 1: push();
